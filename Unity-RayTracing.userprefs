@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Loader.cs">
+    <Files>
+      <File FileName="Assets/Loader.cs" Line="36" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/josher/UnityProjects/Unity-RayTracing/Assets/Loader.cs" line="204" column="1" />
+      <Breakpoint file="/home/josher/UnityProjects/Unity-RayTracing/Assets/Loader.cs" line="122" column="1" />
+      <Breakpoint file="/home/josher/UnityProjects/Unity-RayTracing/Assets/Loader.cs" line="29" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
